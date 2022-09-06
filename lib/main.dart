@@ -4,9 +4,11 @@ import 'package:interview_app/Screens/homescreen.dart';
 import 'package:interview_app/Screens/qualities_screen.dart';
 import 'package:interview_app/Screens/rating_screen.dart';
 import 'package:interview_app/Screens/splashscreen.dart';
-import 'package:interview_app/models/interviewers.dart';
-import 'package:interview_app/models/rating_model.dart';
+import 'package:interview_app/Providers/interviewers.dart';
+import 'package:interview_app/Providers/rating_model.dart';
 import 'package:provider/provider.dart';
+
+import 'Providers/interviewers.dart';
 void main() {
 
   runApp(const MyApp());

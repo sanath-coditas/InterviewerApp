@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:interview_app/models/rating_model.dart';
+import 'package:interview_app/Providers/rating_model.dart';
 import 'package:provider/provider.dart';
 class RatingTile extends StatelessWidget {
   RatingFormat ratingFormat;

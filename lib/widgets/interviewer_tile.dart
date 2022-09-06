@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:interview_app/models/interviewers.dart';
+import 'package:interview_app/Providers/interviewers.dart';
 import 'package:provider/provider.dart';
 
 class InterviewerTile extends StatelessWidget {

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:interview_app/Screens/commentScreen.dart';
 import 'package:interview_app/Screens/thankyouScreen.dart';
 import 'package:interview_app/constants/constants_file.dart';
-import 'package:interview_app/models/rating_model.dart';
+import 'package:interview_app/Providers/rating_model.dart';
 import 'package:interview_app/widgets/category_selector.dart';
 import 'package:provider/provider.dart';
 

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:interview_app/Screens/qualities_screen.dart';
 import 'package:interview_app/constants/constants_file.dart';
-import 'package:interview_app/models/interviewers.dart';
+import 'package:interview_app/Providers/interviewers.dart';
 import 'package:provider/provider.dart';
-import '../models/rating_model.dart';
+import '../Providers/rating_model.dart';
 import '../widgets/rating_tile.dart';
 
 class RatingScreen extends StatelessWidget {

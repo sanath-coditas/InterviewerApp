@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:interview_app/Screens/qualities_screen.dart';
 import 'package:interview_app/Screens/rating_screen.dart';
 import 'package:interview_app/constants/constants_file.dart';
-import 'package:interview_app/models/interviewers.dart';
+import 'package:interview_app/Providers/interviewers.dart';
 import 'package:interview_app/widgets/interviewer_tile.dart';
 import 'package:provider/provider.dart';
 
